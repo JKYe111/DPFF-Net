@@ -19,4 +19,4 @@ Matlab 2021a and above
 
 Deep Learning Toolbox
 
-PS: Please download the raw ".mat" file manually without using "DownLoasd zip", as GitHub's compressed downloads can corrupt large files.
+PS: Please download the raw ".mat" file manually without using "DownLoad zip", as GitHub's compressed downloads can corrupt large files.
