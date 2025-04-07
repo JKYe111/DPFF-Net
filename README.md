@@ -1,7 +1,7 @@
 # DPFF-Net: High-quality Audio Magnetotelluric Time-series Data Reconstruction with A Dual-Path Feature Fusion Network
 
 # Installation
-1. Clone the git repository (Or use "DownLoasd zip" and download the ".mat" file manually.) somewhere you can easily reach it.
+1. Clone the git repository (Or use "DownLoad zip" and download the ".mat" file manually.) somewhere you can easily reach it.
 2. Add the folder to your path in MATLAB Deep Learning Toolbox
 
 # Demo
