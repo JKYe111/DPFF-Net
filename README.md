@@ -1,4 +1,4 @@
-# DPFF-Net: High-quality Audio Magnetotelluric Time-series Data Reconstruction with A Dual-Path Feature Fusion Network
+# DPFF-Net: High-quality Signal Recovery from Noisy Audio Magnetotelluric Data with Dual-Path Feature Fusion Network
 
 # Installation
 1. Clone the git repository (Or use "DownLoad zip" and download the ".mat" file manually.) somewhere you can easily reach it.
